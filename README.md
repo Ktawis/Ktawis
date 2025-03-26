@@ -1,9 +1,11 @@
 ## Hi everyone 👋
 
-Catalina Neira - Ktawis
-21 y/o. 
-🔭 I'm currently studying Biomedical Engineering 
-I'm currently learning GitHub!😄
+Catalina Neira - Ktawis 
+21 y/o.  
+🔭 I'm currently studying Biomedical Engineering   
+🤔 I'm currently learning GitHub!
+
+😄😄  
 
 <!--
 **Ktawis/Ktawis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
