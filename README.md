@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi everyone 👋
 
+Catalina Neira - Ktawis
+21 y/o. 
+🔭 I'm currently studying Biomedical Engineering 
 I'm currently learning GitHub!😄
 
 <!--
