@@ -2,7 +2,7 @@
 
 I'm Catalina Neira — Kta 🐾   
 👩‍🎓 She/Her | 21 y/o  
-🔬 Biomedical Engineering Student @PUC
+🔬 Biomedical Engineering Student
 💡 Curious about tech, the human body, and everything in between  
 🐛 Currently learning how to Git (and not panic)  
 ☕ Fueled by coffee, creativity, and the occasional bug fix at 2 AM  
