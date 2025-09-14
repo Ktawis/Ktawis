@@ -1,7 +1,7 @@
 ## Hi everyone, welcome to my GitHub profile! 👋
 
-I'm Catalina Neira — Kta 🐾   
-👩‍🎓 She/Her | 21 y/o  
+I'm Catalina Neira Cárdenas — Kta 🐾   
+👩‍🎓 She/Her | 22 y/o  
 🔬 Biomedical Engineering Student @PUC  
 💡 Curious about tech, the human body, and everything in between  
 🐛 Currently learning how to Git (and not panic)  
