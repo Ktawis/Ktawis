@@ -5,7 +5,7 @@ I'm Catalina Neira Cárdenas — Kta 🐾
 🔬 Biomedical Engineering Student @PUC  
 💡 Curious about tech, the human body, and everything in between  
 🐛 Currently learning how to Git (and not panic)  
-☕ Fueled by coffee, creativity, and the occasional bug fix at 2 AM  
+
 
 <!--
 **Ktawis/Ktawis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
